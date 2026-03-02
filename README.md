@@ -1,4 +1,4 @@
-# PRODIGY_WDS_01
+# PRODIGY_DS_01
 Internship Task 1
 World Population Data Visualization using TableauOverview
 
